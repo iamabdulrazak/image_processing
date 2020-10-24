@@ -1,2 +1,2 @@
-# image_processing
+# Image Processing
 Image Processing with Flask based Website
